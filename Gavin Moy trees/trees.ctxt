@@ -5,6 +5,4 @@ comment1.params=x\ y
 comment1.target=void\ writeTree(int,\ int)
 comment2.params=
 comment2.target=void\ doubleStar()
-comment3.params=
-comment3.target=void\ bottom()
-numComments=4
+numComments=3
